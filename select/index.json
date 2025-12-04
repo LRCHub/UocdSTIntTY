@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "No.7",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-04T19:15:24.204646Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "There You Are (Jesus Song No.7)",
+      "artist": "The Flaming Lips",
+      "has_synced": false,
+      "path": "select/01_There_You_Are_(Jesus_Song_No.7)_The_Flaming_Lips.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blue Yodel No. 7",
+      "artist": "Bill Monroe",
+      "has_synced": false,
+      "path": "select/02_Blue_Yodel_No._7_Bill_Monroe.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blue Yodel, No. 7",
+      "artist": "Bill Monroe",
+      "has_synced": false,
+      "path": "select/03_Blue_Yodel,_No._7_Bill_Monroe.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Andaikan Kau Datang - From \"Miracle in Cell No. 7\"",
+      "artist": "Andmesh",
+      "has_synced": true,
+      "path": "select/04_Andaikan_Kau_Datang_-_From__Miracle_in_Cell_No._7_Andmesh.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Corn Dog Sonnet No. 7",
+      "artist": "Sincere Engineer",
+      "has_synced": true,
+      "path": "select/05_Corn_Dog_Sonnet_No._7_Sincere_Engineer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "preparation exercise no. 7 (trembling)",
+      "artist": "brakence",
+      "has_synced": true,
+      "path": "select/06_preparation_exercise_no._7_(trembling)_brakence.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "No.7",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_No.7_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
